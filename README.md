@@ -1,5 +1,7 @@
 # Plane_Tracker_TwitterBot
 
+![alt text](https://github.com/cormac-larkin/Plane_Tracker_TwitterBot/blob/main/Tweet.png "Logo Title Text 1")
+
 # Overview
 
 This project is a Twitter Bot which automatically checks if a specified aircraft is transmitting flight data (i.e., it checks if the aircraft is currently in-flight). If the aircraft is transmitting flight data, the bot will tweet the current location, altitude and airspeed of the aircraft. Also included in the tweet is a map image with a marker showing the plane's current location. The map image is retrieved from the Google Static Maps API. The source code for the bot is written entirely in Python and hosted as an AWS Lambda function which is invoked every 30 minutes.
