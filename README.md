@@ -1,4 +1,6 @@
-# Plane_Tracker_TwitterBot
+# PlaneTracker Twitter Bot
+
+## >>> [Click here to view the BelugaXL Tracker](https://twitter.com/BelugaXLTracker) <<<
 
 ![alt text](https://github.com/cormac-larkin/Plane_Tracker_TwitterBot/blob/main/Tweet.png "Logo Title Text 1")
 
